@@ -141,11 +141,16 @@ header ul{
     background-color: #2200493d;
     box-shadow: 0 0 5px #727fde86;
     cursor: pointer;
+    transition: 0.3s;
 }
 
+.hero-info button:hover{
+    box-shadow: 0 0 15px #727fde86;
+}
 
-
-
+.gradient{
+    
+}
 
 
 
