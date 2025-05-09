@@ -149,7 +149,7 @@ header ul{
 }
 
 .gradient{
-    background-color: linear-gradient(to right,#008baa,#7e42a7,#6600c5,#6070fd,#2a46ff,#0099ff,#008ead) ;
+    background-color: linear-gradient(to right,#008baa,#7e42a7,#6600c5,#6070fd,#2a46ff,#0099ff,#008baa) ;
     background-size: 200%;
     background-clip: text;
     -webkit-background-clip: text;
