@@ -204,8 +204,8 @@ header ul{
     animation-delay: 0.5s;
 }
 
-@keyframes .scroll-down{
-    0%{
+@keyframes scroll-down{
+    0% {
         opacity: 0;
 
     }
@@ -220,7 +220,7 @@ header ul{
 
     }
 
-
+}
 
 
 
