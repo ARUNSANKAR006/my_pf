@@ -78,7 +78,7 @@ header ul{
     box-shadow: 0 0 15px #727fde;
 
 }
-.black-box{
+.blackhole-box{
     position: absolute;
     top: 0;
     width: 100%;
@@ -86,11 +86,9 @@ header ul{
     mix-blend-mode: lighten;
 }
 
-.black-box video{
+.blackhole-box video{
     width: 100%;
     margin-top:-23.5%;
-
-
 }
 
 
