@@ -77,7 +77,11 @@ header ul{
     box-shadow: 0 0 15px #727fde;
 
 }
-
+.blackhole-box{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
 
 
 
