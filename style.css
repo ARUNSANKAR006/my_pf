@@ -163,7 +163,14 @@ header ul{
     }
 }
 
+.hero-vid-box{
+    position: absolute;
+    right: 3%;
+}
 
+.hero-vid-box video{
+    height: 900px;
+}
 
 
 
