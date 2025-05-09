@@ -68,13 +68,28 @@ header ul{
     border: 2px solid #727fde;
     text-decoration: none;
     color: lightgray;
-    border-radius: 50%;   
+    border-radius: 50%;
+    transition: 0.3s;   
 }
 
 .box-icons a:hover{
     background-color: #727fde;
     color: black;
     box-shadow: 0 0 15px #727fde;
+
+}
+.black-box{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    justify-content: center;
+    mix-blend-mode: lighten;
+}
+
+.black-box video{
+    width: 100%;
+    margin-top:-23.5%;
+
 
 }
 
