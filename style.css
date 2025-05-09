@@ -82,6 +82,7 @@ header ul{
     top: 0;
     width: 100%;
     justify-content: center;
+    mix-blend-mode: lighten;
 }
 .blackhole-box video{
     width: 100%;
