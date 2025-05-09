@@ -193,15 +193,32 @@ header ul{
     height: 10px;
     width: 10px;
     border: 2px solid lightgray;
-    
-
-
+    transform: translate(-50%,100%) rotate(45deg);
+    border-top: transparent;
+    border-left: transparent;
+    animation: scroll-down 2s ease-in-out infinite;
 }
 
+.scroll-down::before{
+    top: 30%;
+    animation-delay: 0.5s;
+}
 
+@keyframes .scroll-down{
+    0%{
+        opacity: 0;
 
+    }
 
+    30%, 60%{
+        opacity: 1;
+    }
 
+    100%{
+        top: 90%;
+        opacity: 0;
+
+    }
 
 
 
